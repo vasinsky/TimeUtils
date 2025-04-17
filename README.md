@@ -14,3 +14,25 @@ The testing cases are as follows (for exit: press select + start)
 I am interested in tests on various devices, with different diagonals and processors
 
 I tested on H700 640x480 RG35xx H
+
+```
+Menu
+----------------------------------------------------------------------------
+start/a - launch the utility you are interested in
+
+Countdown timer
+-----------------------------------------------------------------------------
+d-pad - switch between hours, minutes, seconds and set the desired timer time
+start/a - start/pause
+x - exit to the menu
+
+Stopwatch
+-----------------------------------------------------------------------------
+start/a - start/pause
+x - exit to the menu
+
+Themes and fonts
+----------------------------------------------------------------------------
+L1 R1 - change color scheme
+L2 R2 - change font
+```
