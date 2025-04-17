@@ -1,0 +1,29 @@
+back = esc
+
+start = enter
+select = space 
+a = enter
+b = \"
+x = \"
+y = \"
+l1 = \"
+l2 = \"
+r1 = \"
+r2 = \"
+up = up
+down = down
+left = left
+right = right
+
+r1 = q
+l1 = w
+
+r2 = e
+l2 = r
+
+x = x
+
+left_analog_up = up
+left_analog_down = down
+left_analog_left = left
+left_analog_right = right
